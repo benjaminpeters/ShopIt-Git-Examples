@@ -1,15 +1,12 @@
 //
 //  AppDelegate.swift
-//  RealmTasks
+//  RealmClusterMap
 //
-//  Created by Ben Peters on 2015-10-29.
-//  Copyright © 2015 Orange Chips. All rights reserved.
+//  Created by Ben Peters on 2016-04-23.
+//  Copyright © 2016 Orange Chips. All rights reserved.
 //
 
 import UIKit
-import RealmSwift
-
-let uiRealm = try! Realm()
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
